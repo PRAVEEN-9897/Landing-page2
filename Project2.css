@@ -1,0 +1,70 @@
+*{
+    color:white;
+}
+
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /* background-color: aquamarine; */
+    /* height: 100%; */
+    /* width: 100%; */
+    background-image: url(../Skyscraper\ Being\ Built\ Photos\ and\ Premium\ High\ Res\ Pictures.jpeg);
+}
+
+.nav {
+    /* margin-left: 100px; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.en {
+    margin-left: 100px;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+.alexa {
+    margin-left: 100px;
+    padding-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu {
+    margin-left: 100px;
+    padding-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section {
+    /* margin-left: 100px; */
+    /* padding-left: 100px; */
+    margin-top: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.footer {
+    /* margin-left: 0px; */
+    /* margin-bottom: 0px; */
+    /* padding-left: 100px; */
+    /* margin-right: 100px; */
+    display: flex;
+    margin-top: 250px;
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* flex-direction: row; */
+    justify-content: space-between;
+}
